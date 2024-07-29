@@ -29,8 +29,8 @@
           "type": "Fabric",
           "artifact": {
             "size": 1368445,
-            "MD5": "9e96a8f9424744e3e9b43f942975da34",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
+            "MD5": "9e96a8f9424744e3e9b43f942 975da34",
+            "url": "https://files.starbounded.me/repo/lib/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "e9892e3f75975a052e7bbaf3c835cab4",
-                "url": "http://localhost:8080/repo/versions/1.20.1-fabric-0.16.0/1.20.1-fabric-0.16.0.json"
+                "url": "https://files.starbounded.me/repo/versions/1.20.1-fabric-0.16.0/1.20.1-fabric-0.16.0.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://files.starbounded.me/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://files.starbounded.me/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://files.starbounded.me/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://files.starbounded.me/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://files.starbounded.me/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494859,
                 "MD5": "65ff9052ede9283e70770e0cd4eccdf4",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
+                "url": "https://files.starbounded.me/repo/lib/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://files.starbounded.me/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4128916,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Adorn-5.0.1+1.20.1-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Adorn-5.0.1+1.20.1-fabric.jar",
             "MD5": "9beca831c7b9e83305dfb8697f564a73"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 193733,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
             "MD5": "5b3231f2fec5a0586d1e88aeb0aecb8a"
           },
           "required": {
@@ -144,7 +144,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 47162,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/antighost-1.20-fabric0.83.0-1.1.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/antighost-1.20-fabric0.83.0-1.1.5.jar",
             "MD5": "342f68c03c210e9769f9d74b809a34e0"
           }
         },
@@ -154,7 +154,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9858783,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/appliedenergistics2-fabric-15.2.11.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/appliedenergistics2-fabric-15.2.11.jar",
             "MD5": "96fecffa4809db24e44b20294ad9149f"
           }
         },
@@ -164,7 +164,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585207,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
@@ -174,7 +174,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 74370,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/athena-fabric-1.20.1-3.1.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/athena-fabric-1.20.1-3.1.2.jar",
             "MD5": "4fd1c38eaf802239c3faeda982a77f2d"
           }
         },
@@ -184,7 +184,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 407065,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.6.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.6.jar",
             "MD5": "2cde903bbb472bbb9fcff08dcb95f14c"
           }
         },
@@ -194,7 +194,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 903077,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/betterarcheology-1.1.9-1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/betterarcheology-1.1.9-1.20.1.jar",
             "MD5": "e55f95000a96bded992721b8ccf698df"
           }
         },
@@ -204,7 +204,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16226,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
             "MD5": "40daa668fb18e365eef2b71138186201"
           },
           "required": {
@@ -217,7 +217,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 164085,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/blur-3.1.0.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/blur-3.1.0.jar",
             "MD5": "5c2350374a817c510596dc2e96d5a20a"
           },
           "required": {
@@ -230,7 +230,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1423826,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.8.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.8.jar",
             "MD5": "e5520d0492f5bacca3c8561f2f7c54dc"
           }
         },
@@ -240,7 +240,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 221901,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/cardinal-components-api-5.2.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/cardinal-components-api-5.2.2.jar",
             "MD5": "c313d46cc78e169f0ce4e954d3a09761"
           }
         },
@@ -250,7 +250,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 15057238,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Chipped-fabric-1.20.1-3.0.6.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Chipped-fabric-1.20.1-3.0.6.jar",
             "MD5": "e3f342d117522d03f5a65781a3712ab0"
           }
         },
@@ -260,7 +260,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 344004,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/Chunky-1.3.146.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/Chunky-1.3.146.jar",
             "MD5": "b1e31424db96ae83246efd0390598e01"
           },
           "required": {
@@ -273,7 +273,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1159192,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
             "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
           }
         },
@@ -283,7 +283,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4373010,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create_dd-0.1d.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create_dd-0.1d.jar",
             "MD5": "7184899616ae2783d93f610c32ec139f"
           }
         },
@@ -293,7 +293,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 620076,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create_interactive-1.0.3-beta.2+e045de2a48.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create_interactive-1.0.3-beta.2+e045de2a48.jar",
             "MD5": "f44192d366cb9f81a9ad47d4d2274536"
           }
         },
@@ -303,7 +303,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14789680,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create-1.20.1-0.5.1.d.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create-1.20.1-0.5.1.d.jar",
             "MD5": "1d8596c61219833a7c0dbf47302dd607"
           }
         },
@@ -313,7 +313,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21952417,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
             "MD5": "a9ecc9268b3b7c7e56f794cf4a27007c"
           }
         },
@@ -323,7 +323,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 657516,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create-new-age-fabric-1.20.1-1.1.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create-new-age-fabric-1.20.1-1.1.2.jar",
             "MD5": "adbcf100c350d23dcaffc452261700a7"
           }
         },
@@ -333,7 +333,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 484457,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/create-structures-0.1.1-1.20.1-FABRIC.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/create-structures-0.1.1-1.20.1-FABRIC.jar",
             "MD5": "ed0c2368482da1181e37e3e40831ba36"
           }
         },
@@ -343,7 +343,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1596988,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/createaddition-fabric+1.20.1-1.2.4.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/createaddition-fabric+1.20.1-1.2.4.jar",
             "MD5": "c6228472638db756dea4d6b908326bc8"
           }
         },
@@ -353,7 +353,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3971046,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
             "MD5": "5898cfdf230cf101a01128662a1d11b3"
           }
         },
@@ -363,7 +363,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 431581,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/cristellib-1.1.5-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/cristellib-1.1.5-fabric.jar",
             "MD5": "18f48c190dd29c43b5d7b10c5c243111"
           }
         },
@@ -373,7 +373,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 598653,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Decorative%20Blocks-fabric-1.20.1-4.0.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Decorative%20Blocks-fabric-1.20.1-4.0.3.jar",
             "MD5": "16ccb6429921edb634d0f2f274f31599"
           }
         },
@@ -383,7 +383,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2225504,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/design_decor-0.4_fabric+1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/design_decor-0.4_fabric+1.20.1.jar",
             "MD5": "69b4f093c6a9ee2689ec970b450e7083"
           }
         },
@@ -393,7 +393,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84945,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/DripSounds-1.19.4-0.3.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/DripSounds-1.19.4-0.3.2.jar",
             "MD5": "dde92c669ac6e13fd46ee22a60103676"
           },
           "required": {
@@ -406,7 +406,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 246771,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/expandeddelight-0.3.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/expandeddelight-0.3.1.jar",
             "MD5": "d931e3c9c9ac2c3a03d94c9ca493c2ee"
           }
         },
@@ -416,7 +416,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1294895,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/exposure-1.20.1-1.7.5-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/exposure-1.20.1-1.7.5-fabric.jar",
             "MD5": "eca7456bd1b11f649f18390bd6a5e24b"
           }
         },
@@ -426,7 +426,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 224000,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar",
             "MD5": "d17d6a5a0207f3d73603f0f8581ccf1c"
           }
         },
@@ -436,7 +436,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107289,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7"
           }
         },
@@ -446,7 +446,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7015315,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
             "MD5": "ac91311ce91421ca52a96d2a4e4f078c"
           }
         },
@@ -456,7 +456,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6732407,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.1.2+refabricated.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.1.2+refabricated.jar",
             "MD5": "39677246dda45123ff6853e7daee2d10"
           }
         },
@@ -466,7 +466,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 103203,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/farmersknives-3.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/farmersknives-3.2.jar",
             "MD5": "03900adae76a1804b5f9cbd10456640b"
           }
         },
@@ -476,7 +476,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 397198,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "9b680a583230400e887dc545aa974936"
           }
         },
@@ -486,7 +486,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 215909,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/fusion-1.1.1-fabric-mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/fusion-1.1.1-fabric-mc1.20.1.jar",
             "MD5": "43684fc020fa629b859c61d0b1fa4016"
           },
           "required": {
@@ -499,7 +499,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7106384,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
             "MD5": "0cb41833dc35949cb23625d2e2b3579d"
           }
         },
@@ -509,7 +509,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 123781,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.18.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.18.jar",
             "MD5": "6ea7e424f1c45e2bd6ac84b2e1b8955a"
           }
         },
@@ -519,7 +519,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2561091,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/immersive_melodies-0.3.0+1.20.1-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/immersive_melodies-0.3.0+1.20.1-fabric.jar",
             "MD5": "4ee59e003fcd57ed09c05c8ef1bcc6ec"
           }
         },
@@ -529,7 +529,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 393253,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/interiors-0.5.3+fabric-mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/interiors-0.5.3+fabric-mc1.20.1.jar",
             "MD5": "709b59f762293fb5e5b06b001184a1d4"
           }
         },
@@ -539,7 +539,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2701293,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/iris-1.7.2+mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/iris-1.7.2+mc1.20.1.jar",
             "MD5": "fde2833d321c3f09020bd456094693d3"
           }
         },
@@ -549,7 +549,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 62591,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/jamlib-0.6.1+1.20.x.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/jamlib-0.6.1+1.20.x.jar",
             "MD5": "c5753dcbdf41c03415cc73bc3e343835"
           }
         },
@@ -559,7 +559,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1280922,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.8.2.25.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.8.2.25.jar",
             "MD5": "c73ba41b491d50ec6b8481716518b8a3"
           }
         },
@@ -569,7 +569,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 63969,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
             "MD5": "da13b6865a45746799f4465409509a52"
           },
           "required": {
@@ -582,7 +582,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1702813,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
             "MD5": "572b3414c6e93d6679f6e89a2ae49995"
           }
         },
@@ -592,7 +592,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3051871,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/letsdo-vinery-fabric-1.4.27.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/letsdo-vinery-fabric-1.4.27.jar",
             "MD5": "1f6c283e961d8a4cdd948e9043db1d9f"
           }
         },
@@ -602,7 +602,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 645865,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
             "MD5": "026ca4110d57f16f701b400ad5d2ca26"
           }
         },
@@ -612,7 +612,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 72613,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionaloff/macos-input-fixes-1.7.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionaloff/macos-input-fixes-1.7.jar",
             "MD5": "82156af83e71e36a140ce45994674fa8"
           },
           "required": {
@@ -626,7 +626,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -636,7 +636,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 642557,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/modernfix-fabric-5.19.0+mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/modernfix-fabric-5.19.0+mc1.20.1.jar",
             "MD5": "ec6c0d1de2fbc6cba5aa2201468f0985"
           }
         },
@@ -646,7 +646,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172462,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/moonlight-1.20-2.12.9-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/moonlight-1.20-2.12.9-fabric.jar",
             "MD5": "e312d5a9508f4f656338ec36b63bd215"
           }
         },
@@ -656,7 +656,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1182726,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/mru-0.4.4+1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/mru-0.4.4+1.20.1.jar",
             "MD5": "9592f4ae06a2a8a7ef3d411fe22d70bd"
           }
         },
@@ -666,7 +666,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1330631,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/mvs-4.1.2-1.20-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/mvs-4.1.2-1.20-fabric.jar",
             "MD5": "f4c1d457685582b18583347f79631226"
           }
         },
@@ -676,7 +676,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 230344,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/NaturesCompass-1.20.1-2.2.3-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/NaturesCompass-1.20.1-2.2.3-fabric.jar",
             "MD5": "9a7621b925ff3f502ea690ffc4cdd774"
           }
         },
@@ -686,7 +686,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 97109,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
             "MD5": "eed1d21db72a040e4141112a8f5e53c6"
           }
         },
@@ -696,7 +696,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5733027,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionaloff/PresenceFootsteps-1.9.4+1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionaloff/PresenceFootsteps-1.9.4+1.20.1.jar",
             "MD5": "5d05759103ef318aea55a0cd90d5bd36"
           },
           "required": {
@@ -710,7 +710,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 57257,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
             "MD5": "2eed6d81c1b72c75646d33b1b5d9dcfe"
           }
         },
@@ -720,7 +720,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 978795,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar",
             "MD5": "eb0c99e235ee5233fcd4063379d92396"
           }
         },
@@ -730,7 +730,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3577691,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/rechiseled-1.1.6-fabric-mc1.20.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/rechiseled-1.1.6-fabric-mc1.20.jar",
             "MD5": "90af959efd53e54bb9ec7c1794860361"
           }
         },
@@ -740,7 +740,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 429056,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/resourcefullib-fabric-1.20.1-2.1.28.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/resourcefullib-fabric-1.20.1-2.1.28.jar",
             "MD5": "20a56a22693e7b63def68f2e0e9d1b01"
           }
         },
@@ -750,7 +750,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 226850,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
             "MD5": "d59fecea4b2c68699956762e8d983c43"
           },
           "required": {
@@ -763,7 +763,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 556556,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/sliceanddice-fabric-3.2.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/sliceanddice-fabric-3.2.3.jar",
             "MD5": "e8af253526456cccbaf51aa7e79a1131"
           }
         },
@@ -773,7 +773,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 430417,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/smoothmenu-1.1.0.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/smoothmenu-1.1.0.jar",
             "MD5": "f2b7a71591c7a87f7d3d427fc63a6118"
           },
           "required": {
@@ -786,7 +786,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 968419,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
             "MD5": "9880bae748957d1cb6c4de50c8e0452a"
           }
         },
@@ -796,7 +796,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9128648,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionaloff/Sounds-1.1.3+1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionaloff/Sounds-1.1.3+1.20.1.jar",
             "MD5": "2c9512144ab59259faaf09216ca6a009"
           },
           "required": {
@@ -810,7 +810,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3082974,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/spark-1.10.53-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/spark-1.10.53-fabric.jar",
             "MD5": "d590c2c10bb832130029c37d1bdd6bf9"
           }
         },
@@ -820,7 +820,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9135839,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
             "MD5": "f11983a15bb6640708c7d47add8bfa7f"
           }
         },
@@ -830,7 +830,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207990,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
             "MD5": "b8e27e4c98a70e3034774f5b31a3044e"
           }
         },
@@ -840,7 +840,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 564556,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/supermartijn642corelib-1.1.17-fabric-mc1.20.1.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/supermartijn642corelib-1.1.17-fabric-mc1.20.1.jar",
             "MD5": "e888fa76d63e72ae09d57ae1bfa647f8"
           }
         },
@@ -850,7 +850,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14347091,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/supplementaries-1.20-2.8.17-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/supplementaries-1.20-2.8.17-fabric.jar",
             "MD5": "d2fb8a9c8f6b398371ed03c75d600de3"
           }
         },
@@ -860,7 +860,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 810984,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/suppsquared-1.20-1.1.14-fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/suppsquared-1.20-1.1.14-fabric.jar",
             "MD5": "1eddc0dc2cd1128c23e8de140dce33e5"
           }
         },
@@ -870,7 +870,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 719244,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/tlc-fabric-1.0.1-1.20.X.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/tlc-fabric-1.0.1-1.20.X.jar",
             "MD5": "06ea1cb6f0fab7c2b777a0f3a474d40c"
           }
         },
@@ -880,7 +880,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2864275,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
             "MD5": "237a2186d2482856f67c638c06489fb8"
           }
         },
@@ -890,7 +890,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1028808,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/travelersbackpack-fabric-1.20.1-9.1.15.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/travelersbackpack-fabric-1.20.1-9.1.15.jar",
             "MD5": "fb16255c55aa3facd2135054d0f67531"
           }
         },
@@ -900,7 +900,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 345764,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/TravelersTitles-1.20-Fabric-4.0.2.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/TravelersTitles-1.20-Fabric-4.0.2.jar",
             "MD5": "74c168290cb05d1fb9d426989cee4bef"
           }
         },
@@ -910,7 +910,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20688696,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/valkyrienskies-120-2.3.0-beta.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/valkyrienskies-120-2.3.0-beta.5.jar",
             "MD5": "41c064e5845b6e334877b9060aa15e2e"
           }
         },
@@ -920,7 +920,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79100,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "a672f9370fdc92bc4874d8494da58b81"
           },
           "required": {
@@ -933,7 +933,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8064361,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
             "MD5": "8e3db9e113b55555d2c0d237906c0edf"
           }
         },
@@ -943,7 +943,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 483252,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/waystones-fabric-1.20-14.1.4.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/waystones-fabric-1.20-14.1.4.jar",
             "MD5": "d6c955ddda12baf62f77c8698ea25e77"
           }
         },
@@ -953,7 +953,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1500922,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
             "MD5": "0ff3834fbcfd3ee34876f48e191ae4c4"
           },
           "required": {
@@ -966,7 +966,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 946610,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/optionalon/XaerosWorldMap_1.38.8_Fabric_1.20.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/XaerosWorldMap_1.38.8_Fabric_1.20.jar",
             "MD5": "e9b10e95e65eb11b7df5acd213f3ff71"
           },
           "required": {
@@ -979,7 +979,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 788378,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/youre-in-grave-danger-2.0.0-beta.13.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/youre-in-grave-danger-2.0.0-beta.13.jar",
             "MD5": "c952791106fb2aee5e8581ca28287ea2"
           }
         },
@@ -989,7 +989,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1391845,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsApi-1.20-Fabric-4.0.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsApi-1.20-Fabric-4.0.5.jar",
             "MD5": "0829fc5dd3c33ffb4f1ab2f913cbc24a"
           }
         },
@@ -999,7 +999,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1063786,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
             "MD5": "7dd4fec6982f0946575a4caab6248060"
           }
         },
@@ -1009,7 +1009,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 944170,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
             "MD5": "8e324c6508dd74edf1e4705d90139da2"
           }
         },
@@ -1019,7 +1019,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 517369,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
             "MD5": "1e64398f1d2ec1ea4049de391b51683d"
           }
         },
@@ -1029,7 +1029,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 947293,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
             "MD5": "b34e5608a93b6a2aa043e4c49f36aff7"
           }
         },
@@ -1039,7 +1039,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 621495,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
             "MD5": "88e49e369f9fd20958c87138328b8c3c"
           }
         },
@@ -1049,7 +1049,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 760974,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
             "MD5": "aefeee128bbae518186bd3d73c59c74a"
           }
         },
@@ -1059,7 +1059,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1165832,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
             "MD5": "06c32808f70eaa9f41bcc01c09509229"
           }
         },
@@ -1069,7 +1069,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 611598,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
             "MD5": "b0ca22280c7b931a7d3d9be028d3093c"
           }
         },
@@ -1079,7 +1079,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 307196,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
             "MD5": "afa25b703d976cde3d62c8f8d8a980a0"
           }
         },
@@ -1089,7 +1089,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 266481,
-            "url": "http://localhost:8080/servers/starbounded-1.20.1/fabricmods/required/YungsBridges-1.20-Fabric-4.0.3.jar",
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/YungsBridges-1.20-Fabric-4.0.3.jar",
             "MD5": "3f195c1585696c0f0cb9d3e4507b1fb2"
           }
         }
