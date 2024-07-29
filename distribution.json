@@ -11,7 +11,7 @@
       "id": "starbounded-1.20.1",
       "name": "starbounded (Minecraft 1.20.1)",
       "description": "starbounded Running Minecraft 1.20.1 (Fabric v0.16.0)",
-      "icon": null,
+      "icon": "https://files.starbounded.me/starbounded.png",
       "version": "1.0.0",
       "address": "mc.starbounded.me",
       "minecraftVersion": "1.20.1",
@@ -29,7 +29,7 @@
           "type": "Fabric",
           "artifact": {
             "size": 1368445,
-            "MD5": "9e96a8f9424744e3e9b43f942 975da34",
+            "MD5": "9e96a8f9424744e3e9b43f942975da34",
             "url": "https://files.starbounded.me/repo/lib/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
           },
           "subModules": [
@@ -139,6 +139,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.8@jar",
+          "name": "Amendments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 952135,
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/amendments-1.20-1.2.8-fabric.jar",
+            "MD5": "41b577120a83d72a516b71d891c0774b"
+          }
+        },
+        {
           "id": "de.guntram.mcmod:antighost:1.20-fabric0.83.0-1.1.5@jar",
           "name": "AntiGhost",
           "type": "FabricMod",
@@ -222,6 +232,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "earth.terrarium:botarium:2.3.4@jar",
+          "name": "Botarium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 188388,
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/botarium-fabric-1.20.1-2.3.4.jar",
+            "MD5": "7e7ab50854a3084771346ebc260c91b5"
           }
         },
         {
@@ -486,6 +506,16 @@
           "type": "FabricMod",
           "artifact": {
             "size": 215909,
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/fusion-1.1.1-fabric-mc1.20.1.jar",
+            "MD5": "43684fc020fa629b859c61d0b1fa4016"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.1.1@jar",
+          "name": "Fusion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 215909,
             "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/optionalon/fusion-1.1.1-fabric-mc1.20.1.jar",
             "MD5": "43684fc020fa629b859c61d0b1fa4016"
           },
@@ -521,6 +551,16 @@
             "size": 2561091,
             "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/immersive_melodies-0.3.0+1.20.1-fabric.jar",
             "MD5": "4ee59e003fcd57ed09c05c8ef1bcc6ec"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105359,
+            "url": "https://files.starbounded.me/servers/starbounded-1.20.1/fabricmods/required/indium-1.0.34+mc1.20.1.jar",
+            "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3"
           }
         },
         {
