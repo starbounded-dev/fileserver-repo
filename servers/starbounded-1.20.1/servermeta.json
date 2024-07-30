@@ -4,12 +4,12 @@
     "version": "1.0.0",
     "name": "starbounded (Minecraft 1.20.1)",
     "description": "starbounded Running Minecraft 1.20.1 (Fabric v0.16.0)",
-    "icon": "https://files.starbounded.me/starbounded.png",
+    "icon": "https://files.starbounded.me/SealCircle.png",
     "address": "mc.starbounded.me",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "mc.starbounded.me",
+      "largeImageText": "StarboundedSTD",
+      "largeImageKey": "https://files.starbounded.me/SealCircle.png"
     },
     "mainServer": true,
     "autoconnect": true

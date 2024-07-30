@@ -3,9 +3,9 @@
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "1267689658352013412",
+      "smallImageText": "mc.starbounded.me",
+      "smallImageKey": "https://files.starbounded.me/minecraft.png"
     }
   }
 }
