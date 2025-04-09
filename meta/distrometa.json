@@ -1,7 +1,6 @@
 {
-  "$schema": "file:///D:/vscode/Nebula/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///${ROOT}/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
     "discord": {
       "clientId": "1267689658352013412",
       "smallImageText": "mc.starbounded.me",

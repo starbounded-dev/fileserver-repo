@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///${ROOT}/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "spedderonies (Minecraft 1.20.1)",
+    "description": "spedderonies Running Minecraft 1.20.1",
+    "icon": "https://files.starbounded.me/servers/spedderonies-1.20.1/logo.png",
+    "address": "mc.starbounded.me:25565",
+    "discord": {
+      "shortId": "spedderonies",
+      "largeImageText": "spedderonies Running Minecraft 1.20.1",
+      "largeImageKey": "logo"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.12"
+  },
+  "untrackedFiles": []
+}
