@@ -175,16 +175,6 @@
           }
         },
         {
-          "id": "org.betterx:bclib:3.0.14@jar",
-          "name": "BCLib",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2312835,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/bclib-3.0.14.jar",
-            "MD5": "f8ace3a498b889040dea6ff1ea85d288"
-          }
-        },
-        {
           "id": "com.sudolev:bellsandwhistles:0.4.5@jar",
           "name": "Create: Bells & Whistles",
           "type": "FabricMod",
@@ -192,26 +182,6 @@
             "size": 216802,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
             "MD5": "a72bb86edd12291414298957dab9bc5a"
-          }
-        },
-        {
-          "id": "generated.fabricmod:better:end-4.0.11@jar",
-          "name": "Better",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 92544800,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/better-end-4.0.11.jar",
-            "MD5": "25be609cb7b9fc6e4e8782c6fdfea35b"
-          }
-        },
-        {
-          "id": "org.betterx:betternether:9.0.10@jar",
-          "name": "Better Nether",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 22981698,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/better-nether-9.0.10.jar",
-            "MD5": "ddc5a347daf531668da8ebe61bfc1c80"
           }
         },
         {
