@@ -12,7 +12,7 @@
       "largeImageKey": "logo"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": true
   },
   "fabric": {
     "version": "0.16.12"
