@@ -125,6 +125,16 @@
           }
         },
         {
+          "id": "io.wispforest:accessories:1.0.0-beta.47+1.20.1@jar",
+          "name": "Accessories",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 763896,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/accessories-fabric-1.0.0-beta.47+1.20.1.jar",
+            "MD5": "df019ccdc10e01d6bcb629b476c50f6b"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:advancementplaques:1.6.7@jar",
           "name": "Advancement Plaques",
           "type": "FabricMod",
@@ -132,6 +142,16 @@
             "size": 194905,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
             "MD5": "eeca04d9749959c6d2063f6a0d98fb14"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ae2wtlib:15.2.1-fabric@jar",
+          "name": "AE2WTLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228542,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/ae2wtlib-15.2.1-fabric.jar",
+            "MD5": "71a6c5a7f25b345bb706f7766b6a6b18"
           }
         },
         {
@@ -162,6 +182,16 @@
             "size": 9870505,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/appliedenergistics2-fabric-15.3.4.jar",
             "MD5": "9044e74f61e6a1fc3d02d625bb3caf7e"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
         {
@@ -345,13 +375,23 @@
           }
         },
         {
-          "id": "generated.fabricmod:mr_create_compatbetterendbetternether:1.1@jar",
-          "name": "Create: Compat BetterEnd & BetterNether",
+          "id": "org.valkyrienskies:create_interactive:1.1.1-beta.3_1.20.1-fabric@jar",
+          "name": "Create: Interactive",
           "type": "FabricMod",
           "artifact": {
-            "size": 283001,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/create-compat-betterend-betternether-1.1.jar",
-            "MD5": "a1566e53872f01fe854a14312494af60"
+            "size": 679243,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/create_interactive-1.1.1-beta.3_1.20.1-fabric.jar",
+            "MD5": "692be1636cd0bbf6907bed37bb2df457"
+          }
+        },
+        {
+          "id": "com.reggarf.mods.create_better_villagers:create-better-villagers:1.2.7-Fabric-1.20.1@jar",
+          "name": "Create Better Villagers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 171141,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/create-better-villagers-1.2.7-Fabric-1.20.1.jar",
+            "MD5": "f8006d4722f9736987874889c99a199a"
           }
         },
         {
@@ -485,6 +525,16 @@
           }
         },
         {
+          "id": "net.superkat:explosiveenhancement:1.3.2-1.20-1.20.4@jar",
+          "name": "Explosive Enhancement",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 114604,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+            "MD5": "83cf2e950a99ff268dc90e97aaca4f75"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.5+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -492,6 +542,26 @@
             "size": 2107841,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "com.teamremastered:endrem:5.2.4@jar",
+          "name": "End Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 141139,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/fabric-end-remastered-5.2.4.jar",
+            "MD5": "6b284f3429818f605eacf59663ac4510"
+          }
+        },
+        {
+          "id": "io.github.lucaargolo:seasons:2.4.2-BETA+1.20@jar",
+          "name": "Fabric Seasons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 429272,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/fabric-seasons-2.4.2-BETA+1.20.jar",
+            "MD5": "e0e1b8084d8b9f78d795353584d97a20"
           }
         },
         {
@@ -525,13 +595,23 @@
           }
         },
         {
-          "id": "generated.fabricmod:fastload:Reforged-mc1.20.1-3.4.0@jar",
-          "name": "Fastload",
+          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
+          "name": "Fast Load",
           "type": "FabricMod",
           "artifact": {
-            "size": 66989,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
-            "MD5": "3266e638032dc9b957bf1e7372671c05"
+            "size": 567412,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fastload+1.18.2-1.20-3.4.0.jar",
+            "MD5": "094d9296ec2c575711b3c253548d77d8"
+          }
+        },
+        {
+          "id": "dev.imb11.fog.loaders:fog:1.5.3-1.20.1@jar",
+          "name": "Fog",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 822869,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fog-fabric-1.5.3-1.20.1.jar",
+            "MD5": "4c77bb47ac75f090d904340de1c23c04"
           }
         },
         {
@@ -555,6 +635,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:geophilic:3.4@jar",
+          "name": "Geophilic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 676879,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Geophilic%20v3.4%20f15-71.mod.jar",
+            "MD5": "796789b3c3158bd658a937ee697dc214"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
           "name": "Iceberg",
           "type": "FabricMod",
@@ -572,6 +662,26 @@
             "size": 246066,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.0+1.20.4.jar",
             "MD5": "f2a87b95d8389a167df1a8dfe39d0a1e"
+          }
+        },
+        {
+          "id": "toni.immersivelanterns:immersivelanterns:1.0.4@jar",
+          "name": "Immersive Lanterns",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 556083,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/immersivelanterns-fabric-1.0.6-1.20.1.jar",
+            "MD5": "f99ab4b6c0cc63c36dfbe993fb42e0e8"
+          }
+        },
+        {
+          "id": "generated.fabricmod:incendium:5.3.5@jar",
+          "name": "Incendium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4638945,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Incendium_1.20.x_v5.3.5.jar",
+            "MD5": "783705058e0b778ca1c80ac5cc8698f6"
           }
         },
         {
@@ -735,6 +845,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:naturalist:5.0pre2@jar",
+          "name": "Naturalist",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4757723,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/naturalist-5.0pre2+fabric-1.20.1.jar",
+            "MD5": "cce2ce107994a7e28428d9fe5114a6c3"
+          }
+        },
+        {
           "id": "io.wispforest:owo:0.11.2+1.20@jar",
           "name": "Oωo",
           "type": "FabricMod",
@@ -775,6 +895,16 @@
           }
         },
         {
+          "id": "xyz.breadloaf.replaymodinterface:replayvoicechat:1.20.1-1.3.3@jar",
+          "name": "Replay Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 211360,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/replayvoicechat-1.20.1-1.3.3.jar",
+            "MD5": "e71ca843d880668212cb070448de93a8"
+          }
+        },
+        {
           "id": "nl.enjarai:showmeyourskin:1.9.0+1.20@jar",
           "name": "Show Me Your Skin!",
           "type": "FabricMod",
@@ -785,6 +915,16 @@
           }
         },
         {
+          "id": "dev.imb11:snowundertrees:2.5.4+1.20.1@jar",
+          "name": "Snow Under Trees",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2332826,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/SnowUnderTrees-2.5.4+1.20.1.jar",
+            "MD5": "456cf2766ed8d86195d3f52baef6994d"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -792,6 +932,16 @@
             "size": 971552,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
+          "name": "Sodium Dynamic Lights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 652650,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sodiumdynamiclights-fabric-1.0.10-1.20.1.jar",
+            "MD5": "a1b36ba87ada993c51fe5d38789d7504"
           }
         },
         {
@@ -862,6 +1012,26 @@
             "size": 2477930,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Stoneworks-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "a2769a27367d659e6d4d0e70e7dd5d9d"
+          }
+        },
+        {
+          "id": "toni.lib:txnilib:1.0.23@jar",
+          "name": "TxniLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1054860,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/txnilib-fabric-1.0.23-1.20.1.jar",
+            "MD5": "396b6864db623fdb92bb0222cff0e95c"
+          }
+        },
+        {
+          "id": "ace.actually:pirates:1.5@jar",
+          "name": "Valkyrien Pirates",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 556164,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/ValkyrienPirates-1.5.jar",
+            "MD5": "ead14e34c00c3258d42e75582f3f6395"
           }
         },
         {
