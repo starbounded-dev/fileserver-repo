@@ -245,6 +245,16 @@
           }
         },
         {
+          "id": "io.github.thecsdev:betterstats:3.12.6+fabric-1.20.1@jar",
+          "name": "Better Statistics Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385358,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/betterstats-3.12.6+fabric-1.20.1.jar",
+            "MD5": "1d30a3af35f088faaea8f348386eb256"
+          }
+        },
+        {
           "id": "io.socol:betterthirdperson:1.9.0@jar",
           "name": "Better Third Person",
           "type": "FabricMod",
@@ -312,16 +322,6 @@
             "size": 344004,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Chunky-1.3.146.jar",
             "MD5": "b1e31424db96ae83246efd0390598e01"
-          }
-        },
-        {
-          "id": "nl.enjarai:cicada:0.11.9+1.20.1@jar",
-          "name": "CICADA",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6831281,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/cicada-lib-0.11.9+1.20.1.jar",
-            "MD5": "0e05e21ee0e557b56d3afab0636baf17"
           }
         },
         {
@@ -485,6 +485,16 @@
           }
         },
         {
+          "id": "dev.emi.emi.platform:emi:1.1.21+1.20.1+fabric@jar",
+          "name": "EMI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1048832,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/emi-1.1.21+1.20.1+fabric.jar",
+            "MD5": "6e56ad47f851c1f95ecc04d42538bf31"
+          }
+        },
+        {
           "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
           "name": "Enhanced Block Entities",
           "type": "FabricMod",
@@ -492,6 +502,16 @@
             "size": 490690,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
             "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 444272,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.4.1.jar",
+            "MD5": "9979ce497513b57a72175d80167a3fe5"
           }
         },
         {
@@ -995,6 +1015,16 @@
           }
         },
         {
+          "id": "io.github.thecsdev:tcdcommons:3.12.3+fabric-1.20.1@jar",
+          "name": "TCD Commons API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 856154,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/tcdcommons-3.12.3+fabric-1.20.1.jar",
+            "MD5": "83ad27f7cf3f7e5f58d1c8142cdf47a4"
+          }
+        },
+        {
           "id": "toni.lib:txnilib:1.0.23@jar",
           "name": "TxniLib",
           "type": "FabricMod",
@@ -1075,13 +1105,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:wiretap:1.20.1-1.0.3@jar",
-          "name": "Wiretap",
+          "id": "xaero.minimap:xaerominimap:25.2.0@jar",
+          "name": "Xaero's Minimap",
           "type": "FabricMod",
           "artifact": {
-            "size": 314034,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/wiretap-1.20.1-1.0.3.jar",
-            "MD5": "363e5e8b6b5bf6ece3b1f4c5639d6ac8"
+            "size": 1736350,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.0_Fabric_1.20.jar",
+            "MD5": "25ed3946439c65ba66ee8a9f9b2e416d"
           }
         },
         {
