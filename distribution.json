@@ -295,6 +295,16 @@
           }
         },
         {
+          "id": "dan200.computercraft.shared:computercraft:1.115.1@jar",
+          "name": "CC: Tweaked",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3588128,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/cc-tweaked-1.20.1-fabric-1.115.1.jar",
+            "MD5": "7c52d3730ea278541a6923fd2976fa4c"
+          }
+        },
+        {
           "id": "fishcute.celestialfabric:celestial:2.0@jar",
           "name": "Celestial",
           "type": "FabricMod",
