@@ -595,13 +595,13 @@
           }
         },
         {
-          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
-          "name": "Fast Load",
+          "id": "generated.fabricmod:fastload:Reforged-mc1.20.1-3.4.0@jar",
+          "name": "Fastload",
           "type": "FabricMod",
           "artifact": {
-            "size": 567412,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fastload+1.18.2-1.20-3.4.0.jar",
-            "MD5": "094d9296ec2c575711b3c253548d77d8"
+            "size": 66989,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "MD5": "3266e638032dc9b957bf1e7372671c05"
           }
         },
         {
@@ -895,16 +895,6 @@
           }
         },
         {
-          "id": "xyz.breadloaf.replaymodinterface:replayvoicechat:1.20.1-1.3.3@jar",
-          "name": "Replay Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 211360,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/replayvoicechat-1.20.1-1.3.3.jar",
-            "MD5": "e71ca843d880668212cb070448de93a8"
-          }
-        },
-        {
           "id": "nl.enjarai:showmeyourskin:1.9.0+1.20@jar",
           "name": "Show Me Your Skin!",
           "type": "FabricMod",
@@ -932,16 +922,6 @@
             "size": 971552,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
-          }
-        },
-        {
-          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
-          "name": "Sodium Dynamic Lights",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 652650,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sodiumdynamiclights-fabric-1.0.10-1.20.1.jar",
-            "MD5": "a1b36ba87ada993c51fe5d38789d7504"
           }
         },
         {
