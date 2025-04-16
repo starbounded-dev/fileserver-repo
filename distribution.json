@@ -145,6 +145,16 @@
           }
         },
         {
+          "id": "org.blocovermelho.ae2emicrafting:ae2-emi-crafting:1.3.1@jar",
+          "name": "AE2 EMI Crafting Integration",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 119861,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/ae2-emi-crafting-1.3.1.jar",
+            "MD5": "a9bc8d30bb8803da7b45aeed4325e1d5"
+          }
+        },
+        {
           "id": "generated.fabricmod:ae2wtlib:15.2.1-fabric@jar",
           "name": "AE2WTLib",
           "type": "FabricMod",
@@ -192,6 +202,16 @@
             "size": 585207,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          }
+        },
+        {
+          "id": "me.axieum.mcmod.authme.impl:authme:7.0.2+1.20@jar",
+          "name": "Auth Me",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1250699,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/authme-7.0.2+1.20.jar",
+            "MD5": "4154b45c0914932ce4c808b893f221f5"
           }
         },
         {
@@ -292,6 +312,16 @@
             "size": 1426500,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
             "MD5": "92a6600d0f05c7e70d92d459b3b9eba8"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cardinal-components:5.2.3@jar",
+          "name": "Cardinal Components API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228709,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/cardinal-components-api-5.2.3.jar",
+            "MD5": "b902397d35fbbf6df232f46fb483024a"
           }
         },
         {
@@ -475,6 +505,16 @@
           }
         },
         {
+          "id": "de.keksuccino:drippyloadingscreen:3.0.12@jar",
+          "name": "Drippy Loading Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 229458,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+            "MD5": "dd8594f4f5d3ef444c0de9dbf6f6a51a"
+          }
+        },
+        {
           "id": "generated.fabricmod:mr_dungeons_andtaverns:3.0.3.f@jar",
           "name": "Dungeons and Taverns",
           "type": "FabricMod",
@@ -605,6 +645,16 @@
           }
         },
         {
+          "id": "de.keksuccino:fancymenu:3.5.0@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3270277,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/fancymenu_fabric_3.5.0_MC_1.20.1.jar",
+            "MD5": "03c2d93750efe53ed3f569c09545c91e"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-2.3.0+refabricated@jar",
           "name": "Farmer's Delight",
           "type": "FabricMod",
@@ -632,6 +682,16 @@
             "size": 66989,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
             "MD5": "3266e638032dc9b957bf1e7372671c05"
+          }
+        },
+        {
+          "id": "de.keksuccino:fmsia:1.0.1@jar",
+          "name": "FancyMenu | System Interactions Addon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 210957,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/fmsia_fabric_1.0.1_MC_1.20.1.jar",
+            "MD5": "5699da3a890aaec5e1e8c09e93fe19ea"
           }
         },
         {
@@ -765,6 +825,16 @@
           }
         },
         {
+          "id": "de.keksuccino:konkrete:1.8.1@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 892067,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
+          }
+        },
+        {
           "id": "me.steinborn.krypton.mod.shared:krypton:0.2.3@jar",
           "name": "Krypton",
           "type": "FabricMod",
@@ -832,6 +902,16 @@
             "size": 118384,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/lunade-fastanim-1.6-1.20.jar",
             "MD5": "c405cb79fcb03b2762f9f14e5cb047e2"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.3@jar",
+          "name": "Melody",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39696,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
         {
@@ -935,6 +1015,16 @@
           }
         },
         {
+          "id": "net.cobrasrock:skinswapper:3.1.4@jar",
+          "name": "Skin Swapper",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1160210,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/skin-swapper-fabric-3.1.4.jar",
+            "MD5": "5ec0f625d8e25afe523b5b8721f93109"
+          }
+        },
+        {
           "id": "dev.imb11:snowundertrees:2.5.4+1.20.1@jar",
           "name": "Snow Under Trees",
           "type": "FabricMod",
@@ -952,16 +1042,6 @@
             "size": 971552,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
-          }
-        },
-        {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.10@jar",
-          "name": "Sound Physics Remastered",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 202462,
-            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
-            "MD5": "0c87cb43caa4521bcd0409a7d31a9127"
           }
         },
         {
@@ -1032,6 +1112,26 @@
             "size": 856154,
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/tcdcommons-3.12.3+fabric-1.20.1.jar",
             "MD5": "83ad27f7cf3f7e5f58d1c8142cdf47a4"
+          }
+        },
+        {
+          "id": "dev.worldgen:tectonic:2.4.4@jar",
+          "name": "Tectonic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 323923,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/tectonic-fabric-1.20.1-2.4.4.jar",
+            "MD5": "516762e0d59bb9179597ab5599f9d2f5"
+          }
+        },
+        {
+          "id": "com.tiviacz:travelersbackpack:9.1.33@jar",
+          "name": "Traveler's Backpack",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1320109,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/fabricmods/required/travelersbackpack-fabric-1.20.1-9.1.33.jar",
+            "MD5": "a13e4b5b91982bb110b79ffa888467a1"
           }
         },
         {
@@ -1255,6 +1355,182 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/drippyloadingscreen/options.txt",
+            "MD5": "713d05a891aae7dbaab416e9c82d0286",
+            "path": "config/drippyloadingscreen/options.txt"
+          }
+        },
+        {
+          "id": "fart-01.wav",
+          "name": "fart-01.wav",
+          "type": "File",
+          "artifact": {
+            "size": 361156,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/assets/fart-01.wav",
+            "MD5": "4ae3d610cda151d2db96bff62c343a8d",
+            "path": "config/fancymenu/assets/fart-01.wav"
+          }
+        },
+        {
+          "id": "replay_button.png",
+          "name": "replay_button.png",
+          "type": "File",
+          "artifact": {
+            "size": 18762,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/assets/replay_button.png",
+            "MD5": "fc1e0213994b6681b07cd68aed7e4a96",
+            "path": "config/fancymenu/assets/replay_button.png"
+          }
+        },
+        {
+          "id": "warden32x.png",
+          "name": "warden32x.png",
+          "type": "File",
+          "artifact": {
+            "size": 5321,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/assets/warden32x.png",
+            "MD5": "2dc6dc8d84ae72a852311b6a1a4d5ab0",
+            "path": "config/fancymenu/assets/warden32x.png"
+          }
+        },
+        {
+          "id": "warden_drawing.png",
+          "name": "warden_drawing.png",
+          "type": "File",
+          "artifact": {
+            "size": 564853,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/assets/warden_drawing.png",
+            "MD5": "e76c30a1d60e8a2131444209e6443fa3",
+            "path": "config/fancymenu/assets/warden_drawing.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 186,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "979dea3a930c7d875ae2a99e79f85f80",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "mainmenu_layout.txt",
+          "name": "mainmenu_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14524,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/customization/mainmenu_layout.txt",
+            "MD5": "34cae5134d7c26868ac48c339869deb7",
+            "path": "config/fancymenu/customization/mainmenu_layout.txt"
+          }
+        },
+        {
+          "id": "universal_layout.txt",
+          "name": "universal_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1260,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/customization/universal_layout.txt",
+            "MD5": "d1e0ec21b9a9e1128971cc66c217cde8",
+            "path": "config/fancymenu/customization/universal_layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 252,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "f07a952ff92c0799115327546063c06b",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "dragger_metas.json",
+          "name": "dragger_metas.json",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/dragger_metas.json",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/fancymenu/dragger_metas.json"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 197,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1999,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "af882e13decf373cc3bf911be84ce797",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "3981f37966b00a80e31aac89169be280",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
           "id": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
           "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
           "type": "File",
@@ -1307,6 +1583,17 @@
             "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/resourcepacks/[1.4.1]%20Enhanced%20Boss%20Bars.zip",
             "MD5": "495fbb660cd869fea7f7f2a26d1c1528",
             "path": "resourcepacks/[1.4.1] Enhanced Boss Bars.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 81,
+            "url": "http://files.starbounded.me/servers/spedderonies-1.20.1/files/servers.dat",
+            "MD5": "b613be932e8f67e9cce95e296b0e7179",
+            "path": "servers.dat"
           }
         },
         {
