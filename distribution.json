@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "1267689658352013412",
-    "smallImageText": "mc.starbounded.me",
+    "smallImageText": "play.starbounded.studio",
     "smallImageKey": "https://files.starbounded.me/minecraft.png"
   },
   "servers": [
@@ -12,7 +12,7 @@
       "description": "spedderonies Running Minecraft 1.20.1",
       "icon": "https://files.starbounded.me/servers/spedderonies-1.20.1/logo.png",
       "version": "1.0.0",
-      "address": "mc.starbounded.me",
+      "address": "play.starbounded.studio",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "spedderonies",
